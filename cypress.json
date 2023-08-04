@@ -1,0 +1,10 @@
+{
+    "watchForFileChanges": false,
+    "baseUrl": "https://obstaclecourse.tricentis.com/Obstacles",
+    "env": {
+        "USERNAME": "charlottehenrico@gmail.com",
+        "PASSWORD": "Password"
+        
+      }
+}
+

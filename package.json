@@ -1,0 +1,18 @@
+{
+  "name": "cypressportfolio",
+  "version": "1.0.0",
+  "description": "A Project where I showcase what I have learned in Cypress. Written in Javascript and using Mocha as testrunner. \r The project is structured using the page object model. \r For visual testing I am making use of Applitools.Eyes\r Store the images from visual testing in a container",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^4.2.0"
+  }
+}
+
+

@@ -4,8 +4,7 @@
         "USERNAME": "charlottehenrico@gmail.com",
         "PASSWORD": "Password",
         "baseUrl": "https://obstaclecourse.tricentis.com/Obstacles",
-        "baseUrlLab": "http://thelab.boozang.com/"
-
-        
+        "baseUrlLab": "http://thelab.boozang.com/",
+        "passwordLabForm": "Admin123"
       }
 }
